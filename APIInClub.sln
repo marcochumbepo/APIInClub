@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIInClub", "APIInClub\APIInClub.csproj", "{67B57043-D316-42F8-8E5E-32C07E189BD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67B57043-D316-42F8-8E5E-32C07E189BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B57043-D316-42F8-8E5E-32C07E189BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B57043-D316-42F8-8E5E-32C07E189BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B57043-D316-42F8-8E5E-32C07E189BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF58C4E-042F-41D9-AA52-F248E289477C}
+	EndGlobalSection
+EndGlobal
